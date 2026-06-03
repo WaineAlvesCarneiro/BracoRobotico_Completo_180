@@ -1,11 +1,9 @@
-Fiz esse projeto com o objetivo de refazer o Braço Robótico que fiz no meu TCC de conclusão do curso de Engenharia da Computação que apresentei no ano de 2012 para a banca avaliadora.
+O objetivo deste projeto é recriar e aperfeiçoar o braço robótico desenvolvido originalmente em 2012 para o meu Trabalho de Conclusão de Curso (TCC) em Engenharia da Computação.
 
-O projeto original é bem simples devido ao curto tempo que tínhamos para fazer a montagem e a documentação completa do TCC.
+Enquanto a versão original possuía uma estrutura simples de alumínio feita sob medida por mim mesmo — uma limitação da época devido ao cronograma apertado —, esta nova versão foca na eficiência da montagem. Para isso, 
+utilizei componentes próprios de robótica combinados com adaptações de materiais compatíveis encontrados no mercado. A função principal do dispositivo é puramente operacional: ao pressionar um botão de comando, o braço 
+automatizado realiza o transporte de uma caixa entre dois pontos distintos.
 
-Na época construí toda a estrutura de alumínio da estrutura, porém desta vez encontrei alguns componentes próprios para robótica que utilizei para facilitar a montagem, e outras peças fiz adaptações com utensílios, que procurei na internet até encontrar itens compatíveis com o que eu precisava, a fim de facilitar a montagem final.
+Vídeo do braço robótico funcionando:
 
-Então o objetivo do Braço Robótico nesse projeto é e ao apertar o botão de início o braço deve mover uma caixa de uma lado a outro.
-
-Veja o vídeo do funcionamento do braço robótico
-
-https://www.youtube.com/shorts/KIA7WiulXtQ
+https://lnkd.in/dxXueefA
